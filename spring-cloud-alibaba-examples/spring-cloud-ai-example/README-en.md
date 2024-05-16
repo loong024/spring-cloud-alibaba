@@ -33,7 +33,7 @@ The Spring Cloud Alibaba AI module is based on [Spring AI 0.8.1](https://docs.sp
    spring:
      cloud:
        ai:
-         tong-yi:
+         tongyi:
            # apikey is invalid.
            api-key: sk-a3d73b1709bf4a178c28ed7c8b3b5a45
    ```
